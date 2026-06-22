@@ -4,7 +4,7 @@ export function navbar() {
       <div class="container nav-inner">
 
         <a href="/" data-link class="logo">
-          <img src="./src/assets/logo1.png" alt="Healing Homes Living Services" />
+          <img src="/images/logo1.png" alt="Healing Homes Living Services" />
           Healing Homes Living Services
         </a>
 

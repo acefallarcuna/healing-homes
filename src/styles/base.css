@@ -434,7 +434,7 @@ a, button {
   position: absolute;
   inset: 0;
 
-  background-image: url("./src/assets/background.jpg");
+  background-image: url("/images/background.jpg");
   background-size: cover;
   background-position: center;
 
