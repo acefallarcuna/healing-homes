@@ -1,0 +1,18 @@
+:root {
+  --navy: #0c223d;
+  --blue: #1d5ea9;
+  --gold: #e8a020;
+
+  --white: #ffffff;
+
+  --gray-50: #f8fafc;
+  --gray-100: #eef2f7;
+  --gray-300: #d6dde8;
+  --gray-700: #4b5563;
+
+  --radius: 16px;
+  --container: 1200px;
+
+  --shadow:
+    0 10px 30px rgba(12, 34, 61, 0.08);
+}
