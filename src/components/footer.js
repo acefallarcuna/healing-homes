@@ -5,7 +5,7 @@ export function footer() {
       <div class="container footer-top">
         <div class="footer-brand">
           <div class="footer-brand-row">
-            <img src="/images/logo2.png" alt="Healing Homes Living Services" class="footer-logo" />
+            <img src="/logo2.png" alt="Healing Homes Living Services" class="footer-logo" />
 
             <span class="footer-brand-name">
               Healing Homes Living Services
